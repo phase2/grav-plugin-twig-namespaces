@@ -18,7 +18,7 @@ This will install the Twig namespaces plugin into your `/user/plugins` directory
 
 ### Manual Installation
 
-To install this plugin, just download the zip version of this repository and unzip it under `/your/site/grav/user/plugins`. Then, rename the folder to `twig-namespaces`. You can find these files on [GitHub](https://github.com/chris-clark/grav-plugin-twig-namespaces) or via [GetGrav.org](http://getgrav.org/downloads/plugins#extras).
+To install this plugin, just download the zip version of this repository and unzip it under `/your/site/grav/user/plugins`. Then, rename the folder to `twig-namespaces`. You can find these files on [GitHub](https://github.com/phase2/grav-plugin-twig-namespaces).
 
 You should now have all the plugin files under
 
@@ -40,16 +40,3 @@ namespaces:  // Array of namespaces
       - path to folder containing twig files to be included in namespace
       - another path be included for namespaces
 ```
-
-## Usage
-
-**Describe how to use the plugin.**
-
-## Credits
-
-**Did you incorporate third-party code? Want to thank somebody?**
-
-## To Do
-
-- [ ] Future plans, if any
-
